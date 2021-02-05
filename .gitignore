@@ -1,2 +1,6 @@
-
+*.csv
+*.npz
+*.docx
+*.pdf
+*.pptx
 .ipynb_checkpoints/support_vector-checkpoint.ipynb
